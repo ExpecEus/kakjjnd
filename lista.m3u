@@ -5,8 +5,8 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2613" group="Variedades" logo="https://listaiptv.gratis/logos/imagens/pampa.png", TV Pampa - RedeTV! RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2467" group="Pública" logo="https://listaiptv.gratis/logos/imagens/catve.png", Catve - Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2467" group="Pública" logo="https://listaiptv.gratis/logos/imagens/catve.png", TV Cultura
+https://d28367vmhj4ljz.cloudfront.net/out/v1/60afbd200f12447ea25ddfb39baf8d09/index.mpd
 #EXTINF:0 type="stream" channelId="5102" group="Pública" logo="https://listaiptv.gratis/logos/imagens/tve.jpg", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:0 type="stream" channelId="2462" group="Variedades" logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png", Rede Família
@@ -25,11 +25,11 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://list.iptvcat.com/my_list/s/b4ee04dbc287871bbfb2d44c960edce3.m3u8
 #EXTINF:0 type="stream" channelId="2563", Band TV
 https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-cDv0NzPD3Q3xlXS0bCaZqBMu0KnfUylOPpkYq7rB8K3)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
-#EXTINF:-1 player-settings='{"mediaTransportType":"TS"}' channelId="2450" group="Religioso", RS21
+#EXTINF:0 type="stream" channelId="2450" group="Religioso", RS21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b1428000.m3u8
 #EXTINF:0 type="stream" channelId="2449" group="Religioso", Canção Nova
 https://list.iptvcat.com/my_list/s/45a5e653d87c57b2b7a435a1c5ab87f8.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://tvratimbum.com.br/portal/images/capaPrograma/tvratimbumnovo/banner-layer-slider/banner-out-2022-1/logo.png", TV Ratimbum
+#EXTINF:0 type="stream" channelId="2614" logo="https://tvratimbum.com.br/portal/images/capaPrograma/tvratimbumnovo/banner-layer-slider/banner-out-2022-1/logo.png", TV Ratimbum
 https://list.iptvcat.com/my_list/s/a68853a089535f3aa8e69522878737b7.m3u8
 #EXTINF:0 type="stream" channelId="1052", TNT
 https://pull-l3-cny.douyincdn.com/live/stream-1121br202302072208.m3u8
@@ -37,3 +37,5 @@ https://pull-l3-cny.douyincdn.com/live/stream-1121br202302072208.m3u8
 https://pull-l3-cny.douyincdn.com/live/stream-1121br2023010314185.m3u8
 #EXTINF:0 type="stream" channelId="73" logo="https://cdn.entries.clios.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" aspect-ratio="16:9", Syfy
 https://pull-l3-cny.douyincdn.com/live/iaovivo-com-1121752023041918312.m3u8
+#EXTINF:0 type="stream" channelId="1330", HBO
+https://server101.online/hbo/index.m3u8?token=189c67739375f85195afbced641f49d30124448e-fb21ab6534b2c49b9929f12e58727400-1683148033-1683144433&remote=177.10.129.236
